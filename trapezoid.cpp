@@ -40,6 +40,7 @@ int main() {
     cout << "Периметр трапеции: " << P << endl;
     cout << "Площадь трапеции: " << S << endl;
     cout << "Средняя линия: " << M << endl;
+    cout << "main" << endl;
 
     return 0;
 }
